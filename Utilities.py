@@ -1,9 +1,9 @@
-import pygame
-
+#Constants
 WIDTH, HEIGHT = 800,800
 ROWS, COLS = 11,11
 HEXAGON_size = WIDTH//COLS
 
+#Game Window Name
 WINDOW_NAME = "HEX BOARD GAME"
 
 #Colours
